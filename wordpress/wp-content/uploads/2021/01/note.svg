@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer_1" x="0px" y="0px" viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
+<style type="text/css">
+	.st0qqq{clip-path:url(#SVGID_2qqq_);fill:#3377FF;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1qqq_" y="0" width="32" height="32"></rect>
+	</defs>
+	<clipPath id="SVGID_2qqq_">
+		<use xlink:href="#SVGID_1qqq_" style="overflow:visible;"></use>
+	</clipPath>
+	<path class="st0qqq" d="M21.17,21.17l-1.78-5.38L9.11,5.51l-3.6,3.6l10.28,10.28L21.17,21.17z M0.75,0.75c-0.99,0.99-0.99,2.6,0,3.6   l2.65,2.65l3.6-3.6L4.34,0.75C3.35-0.25,1.74-0.25,0.75,0.75 M30,6H15.82l2,2H30v22H8V17.82l-2-2V30c0,1.1,0.9,2,2,2h22   c1.1,0,2-0.9,2-2V8C32,6.9,31.1,6,30,6"></path>
+</g>
+</svg>

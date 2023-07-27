@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer_1" x="0px" y="0px" viewBox="0 0 17 19" style="enable-background:new 0 0 17 19;" xml:space="preserve">
+<style type="text/css">
+	.st0rrr{clip-path:url(#SVGID_2rrr_);fill:#C5BCF7;}
+	.st1rrr{clip-path:url(#SVGID_2rrr_);fill:#A89BF4;}
+	.st2rrr{clip-path:url(#SVGID_2rrr_);fill:#6E59ED;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1rrr_" y="0" width="17" height="19"></rect>
+	</defs>
+	<clipPath id="SVGID_2rrr_">
+		<use xlink:href="#SVGID_1rrr_" style="overflow:visible;"></use>
+	</clipPath>
+	<path class="st0rrr" d="M16.73,4.74L8.5,9.5L0.27,4.74c0.17-0.29,0.41-0.54,0.7-0.71L7.5,0.26c0.62-0.35,1.38-0.35,2,0l6.53,3.77   C16.32,4.21,16.56,4.45,16.73,4.74"></path>
+	<path class="st1rrr" d="M8.5,9.5V19c-0.32,0-0.63-0.07-0.91-0.21L1,14.98c-0.62-0.36-1-1.01-1-1.73v-7.5c0-0.35,0.1-0.7,0.27-1.01   L8.5,9.5z"></path>
+	<path class="st2rrr" d="M17,5.75v7.5c0,0.71-0.38,1.37-1,1.73L9.38,18.8C9.1,18.93,8.8,19,8.5,19V9.5l8.23-4.76   C16.9,5.05,17,5.4,17,5.75"></path>
+</g>
+</svg>

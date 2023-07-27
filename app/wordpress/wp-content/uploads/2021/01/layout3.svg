@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer_1" x="0px" y="0px" viewBox="0 0 20 20" style="enable-background:new 0 0 20 20;" xml:space="preserve">
+<style type="text/css">
+	.st0eee{fill:#A89BF4;}
+	.st1eee{clip-path:url(#SVGID_2eee_);fill:#A89BF4;}
+	.st2eee{clip-path:url(#SVGID_2eee_);fill:#C5BCF7;}
+	.st3eee{clip-path:url(#SVGID_2eee_);fill:#6E59ED;}
+</style>
+<rect x="7" y="8" class="st0eee" width="6" height="12"></rect>
+<g>
+	<defs>
+		<rect id="SVGID_1eee_" width="20" height="20"></rect>
+	</defs>
+	<clipPath id="SVGID_2eee_">
+		<use xlink:href="#SVGID_1eee_" style="overflow:visible;"></use>
+	</clipPath>
+	<path class="st1eee" d="M0,8v11c0,0.55,0.45,1,1,1h4V8H0z"></path>
+	<polygon class="st2eee" points="20,6 0,6 0,8 5,8 5,20 7,20 7,8 13,8 13,20 15,20 15,8 20,8"></polygon>
+	<path class="st1eee" d="M15,8v12h4c0.55,0,1-0.45,1-1V8H15z"></path>
+	<path class="st3eee" d="M1,0h18c0.55,0,1,0.45,1,1v5H0V1C0,0.45,0.45,0,1,0"></path>
+</g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer_1" x="0px" y="0px" viewBox="0 0 20 20" style="enable-background:new 0 0 20 20;" xml:space="preserve">
+<style type="text/css">
+	.st044{clip-path:url(#SVGID_66_);fill:#ADC8FF;}
+	.st144{clip-path:url(#SVGID_66_);fill:#3377FF;}
+	.st244{clip-path:url(#SVGID_66_);fill:#84ADFF;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_55_" width="20" height="20"></rect>
+	</defs>
+	<clipPath id="SVGID_66_">
+		<use xlink:href="#SVGID_55_" style="overflow:visible;"></use>
+	</clipPath>
+	<path class="st044" d="M19,0H7C6.45,0,6,0.45,6,1v0v4h8c0.55,0,1,0.45,1,1v0v8h4c0.55,0,1-0.45,1-1v0V1C20,0.45,19.55,0,19,0L19,0z"></path>
+	<path class="st144" d="M1,10h8c0.55,0,1,0.45,1,1v8c0,0.55-0.45,1-1,1H1c-0.55,0-1-0.45-1-1v-8C0,10.45,0.45,10,1,10"></path>
+	<path class="st244" d="M14,5H4C3.45,5,3,5.45,3,6v0v4h6c0.55,0,1,0.45,1,1v0v6h4c0.55,0,1-0.45,1-1v0V6C15,5.45,14.55,5,14,5L14,5z"></path>
+</g>
+</svg>

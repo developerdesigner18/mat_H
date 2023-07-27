@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer_1" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<style type="text/css">
+	.st0444{clip-path:url(#SVGID_2444_);fill:#3377FF;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1444_" width="24" height="24"></rect>
+	</defs>
+	<clipPath id="SVGID_2444_">
+		<use xlink:href="#SVGID_1444_" style="overflow:visible;"></use>
+	</clipPath>
+	<path class="st0444" d="M2,10h6c1.1,0,2-0.9,2-2V2c0-1.1-0.9-2-2-2H2C0.9,0,0,0.9,0,2v6C0,9.1,0.9,10,2,10 M16,10h6c1.1,0,2-0.9,2-2V2   c0-1.1-0.9-2-2-2h-6c-1.1,0-2,0.9-2,2v6C14,9.1,14.9,10,16,10 M0,22c0,1.1,0.9,2,2,2h6c1.1,0,2-0.9,2-2v-6c0-1.1-0.9-2-2-2H2   c-1.1,0-2,0.9-2,2V22z M14,22c0,1.1,0.9,2,2,2h6c1.1,0,2-0.9,2-2v-6c0-1.1-0.9-2-2-2h-6c-1.1,0-2,0.9-2,2V22z"></path>
+</g>
+</svg>

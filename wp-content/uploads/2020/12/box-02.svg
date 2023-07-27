@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer_1" x="0px" y="0px" viewBox="0 0 640.4 535.74" style="enable-background:new 0 0 640.4 535.74;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);fill:#FCB400;}
+	.st1{clip-path:url(#SVGID_2_);fill:#18BFFF;}
+	.st2{clip-path:url(#SVGID_2_);fill:#FFFFFF;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1_" width="640.4" height="535.74"></rect>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_" style="overflow:visible;"></use>
+	</clipPath>
+	<path class="st0" d="M285.96,6.76L47.2,105.56c-13.28,5.49-13.14,24.36,0.22,29.65l239.76,95.08c21.07,8.35,44.53,8.35,65.59,0   l239.76-95.08c13.36-5.29,13.5-24.15,0.22-29.65L353.99,6.76C332.21-2.25,307.74-2.25,285.96,6.76"></path>
+	<path class="st1" d="M341.25,282.2v237.52c0,11.29,11.39,19.03,21.89,14.87l267.16-103.7c6.1-2.42,10.1-8.31,10.1-14.87V178.51   c0-11.3-11.39-19.03-21.89-14.87l-267.16,103.7C345.25,269.76,341.25,275.65,341.25,282.2"></path>
+	<path class="st2" d="M278.86,294.46l-79.29,38.28l-8.05,3.89l-167.37,80.2C13.55,421.95,0,414.22,0,402.43V179.5   c0-4.26,2.19-7.95,5.12-10.71c1.2-1.2,2.57-2.22,4.05-3.04c4-2.4,9.7-3.04,14.55-1.12l253.8,100.56   C290.43,270.31,291.44,288.39,278.86,294.46"></path>
+</g>
+</svg>

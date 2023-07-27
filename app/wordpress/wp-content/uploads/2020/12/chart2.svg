@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer_1" x="0px" y="0px" viewBox="0 0 22 22" style="enable-background:new 0 0 22 22;" xml:space="preserve">
+<style type="text/css">
+	.st033{clip-path:url(#SVGID_33_);fill:#ADC8FF;}
+	.st133{clip-path:url(#SVGID_33_);fill:#3377FF;}
+	.st233{clip-path:url(#SVGID_33_);fill:#84ADFF;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_44_" width="22" height="22"></rect>
+	</defs>
+	<clipPath id="SVGID_33_">
+		<use xlink:href="#SVGID_44_" style="overflow:visible;"></use>
+	</clipPath>
+	<path class="st033" d="M5,22H1c-0.55,0-1-0.45-1-1v0v-8c0-0.55,0.45-1,1-1h4c0.55,0,1,0.45,1,1v0v8C6,21.55,5.55,22,5,22z"></path>
+	<path class="st133" d="M13,22H9c-0.55,0-1-0.45-1-1v0V1c0-0.55,0.45-1,1-1h4c0.55,0,1,0.45,1,1v20C14,21.55,13.55,22,13,22L13,22z"></path>
+	<path class="st233" d="M21,22h-4c-0.55,0-1-0.45-1-1v0V9c0-0.55,0.45-1,1-1h0h4c0.55,0,1,0.45,1,1v12C22,21.55,21.55,22,21,22L21,22z   "></path>
+</g>
+</svg>

@@ -1,0 +1,27 @@
+2023-01-13T05:52:43+00:00 CRITICAL Uncaught Error: Call to undefined function MasterlayerAddons\Widgets\silvertech_pagination() in /home/mathbizplan/public_html/wordpress/wp-content/plugins/masterlayer-addons-for-elementor/includes/widgets/mae-news-grid.php:1551
+Stack trace:
+#0 /home/mathbizplan/public_html/wordpress/wp-content/plugins/elementor/includes/base/controls-stack.php(2266): MasterlayerAddons\Widgets\MAE_News_Grid_Widget->render()
+#1 /home/mathbizplan/public_html/wordpress/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#2 /home/mathbizplan/public_html/wordpress/wp-content/plugins/elementor/includes/base/widget-base.php(750): Elementor\Widget_Base->render_content()
+#3 /home/mathbizplan/public_html/wordpress/wp-content/plugins/elementor/includes/base/element-base.php(447): Elementor\Widget_Base->print_content()
+#4 /home/mathbizplan/public_html/wordpress/wp-content/plugins/elementor/includes/base/element-base.php(801): Elementor\Element_Base->print_element()
+#5 /home/mathbizpl in /home/mathbizplan/public_html/wordpress/wp-content/plugins/masterlayer-addons-for-elementor/includes/widgets/mae-news-grid.php on line 1551
+
+2023-01-13T05:58:29+00:00 CRITICAL Uncaught Error: Call to undefined function MasterlayerAddons\Widgets\silvertech_pagination() in /home/mathbizplan/public_html/wordpress/wp-content/plugins/masterlayer-addons-for-elementor/includes/widgets/mae-news-grid.php:1551
+Stack trace:
+#0 /home/mathbizplan/public_html/wordpress/wp-content/plugins/elementor/includes/base/controls-stack.php(2266): MasterlayerAddons\Widgets\MAE_News_Grid_Widget->render()
+#1 /home/mathbizplan/public_html/wordpress/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#2 /home/mathbizplan/public_html/wordpress/wp-content/plugins/elementor/includes/base/widget-base.php(750): Elementor\Widget_Base->render_content()
+#3 /home/mathbizplan/public_html/wordpress/wp-content/plugins/elementor/includes/base/element-base.php(447): Elementor\Widget_Base->print_content()
+#4 /home/mathbizplan/public_html/wordpress/wp-content/plugins/elementor/includes/base/element-base.php(801): Elementor\Element_Base->print_element()
+#5 /home/mathbizpl in /home/mathbizplan/public_html/wordpress/wp-content/plugins/masterlayer-addons-for-elementor/includes/widgets/mae-news-grid.php on line 1551
+
+2023-01-13T05:58:30+00:00 CRITICAL Uncaught Error: Call to undefined function MasterlayerAddons\Widgets\silvertech_pagination() in /home/mathbizplan/public_html/wordpress/wp-content/plugins/masterlayer-addons-for-elementor/includes/widgets/mae-news-grid.php:1551
+Stack trace:
+#0 /home/mathbizplan/public_html/wordpress/wp-content/plugins/elementor/includes/base/controls-stack.php(2266): MasterlayerAddons\Widgets\MAE_News_Grid_Widget->render()
+#1 /home/mathbizplan/public_html/wordpress/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#2 /home/mathbizplan/public_html/wordpress/wp-content/plugins/elementor/includes/base/widget-base.php(750): Elementor\Widget_Base->render_content()
+#3 /home/mathbizplan/public_html/wordpress/wp-content/plugins/elementor/includes/base/element-base.php(447): Elementor\Widget_Base->print_content()
+#4 /home/mathbizplan/public_html/wordpress/wp-content/plugins/elementor/includes/base/element-base.php(801): Elementor\Element_Base->print_element()
+#5 /home/mathbizpl in /home/mathbizplan/public_html/wordpress/wp-content/plugins/masterlayer-addons-for-elementor/includes/widgets/mae-news-grid.php on line 1551
+

@@ -1,0 +1,19 @@
+/**
+ * Theme Name: Silvertech Child
+ * Template: silvertech
+ * Version: 1.0
+ * Description: Creative Technology WordPress Theme
+ * Author: Ninzio
+ **/
+
+.header-style-2 #site-header .search-cart-wrap .master-button.header-button .elementor-kit-11746 a{
+    background: #29A8EA !important;
+    }
+
+.header-style-2 #site-header .search-cart-wrap .master-button .hover-effect .elementor-kit-11746 a{
+        background-color: #0683c4 !important;
+        
+}
+.elementor-kit-11746 a {
+    color: #fdfdfd !important;
+}

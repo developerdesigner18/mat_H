@@ -1,0 +1,1719 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "xtechious - Template kit for SAAS services",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/newkit.moxcreative.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Homepage2",
+            "screenshot": "screenshots\/homepage2.jpg",
+            "source": "templates\/homepage2.json",
+            "preview_url": "https:\/\/newkit.moxcreative.com\/xtechious\/template-kit\/homepage2\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Homepage1",
+            "screenshot": "screenshots\/homepage1.jpg",
+            "source": "templates\/homepage1.json",
+            "preview_url": "https:\/\/newkit.moxcreative.com\/xtechious\/template-kit\/homepage1\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/newkit.moxcreative.com\/xtechious\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Services",
+            "screenshot": "screenshots\/single-services.jpg",
+            "source": "templates\/single-services.json",
+            "preview_url": "https:\/\/newkit.moxcreative.com\/xtechious\/template-kit\/single-services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/newkit.moxcreative.com\/xtechious\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Pricing plan",
+            "screenshot": "screenshots\/pricing-plan.jpg",
+            "source": "templates\/pricing-plan.json",
+            "preview_url": "https:\/\/newkit.moxcreative.com\/xtechious\/template-kit\/pricing-plan\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/newkit.moxcreative.com\/xtechious\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/newkit.moxcreative.com\/xtechious\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/newkit.moxcreative.com\/xtechious\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "xtechious - Error 404",
+            "screenshot": "screenshots\/xtechious-error-404.jpg",
+            "source": "templates\/xtechious-error-404.json",
+            "preview_url": "https:\/\/newkit.moxcreative.com\/xtechious\/?elementor_library=xtechious-error-404",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "xtechious - Single post",
+            "screenshot": "screenshots\/xtechious-single-post.jpg",
+            "source": "templates\/xtechious-single-post.json",
+            "preview_url": "https:\/\/newkit.moxcreative.com\/xtechious\/?elementor_library=xtechious-single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "xtechious - Archive",
+            "screenshot": "screenshots\/xtechious-archive.jpg",
+            "source": "templates\/xtechious-archive.json",
+            "preview_url": "https:\/\/newkit.moxcreative.com\/xtechious\/?elementor_library=xtechious-archive",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "xtechious - Footer",
+            "screenshot": "screenshots\/xtechious-footer.jpg",
+            "source": "templates\/xtechious-footer.json",
+            "preview_url": "https:\/\/newkit.moxcreative.com\/xtechious\/?elementor_library=xtechious-footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "xtechious - Header",
+            "screenshot": "screenshots\/xtechious-header.jpg",
+            "source": "templates\/xtechious-header.json",
+            "preview_url": "https:\/\/newkit.moxcreative.com\/xtechious\/?elementor_library=xtechious-header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.6.3",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Skyboot Custom Icons for Elementor - Elementor Icons library",
+            "version": "1.0.5",
+            "file": "skyboot-custom-icons-for-elementor\/skyboot-custom-icons-for-elementor.php",
+            "author": "Skybootstrap"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.7.1",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "bg_header.jpg",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/bg_header-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage2.json",
+                    "name": "Homepage2"
+                },
+                {
+                    "source": "templates\/homepage1.json",
+                    "name": "Homepage1"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing plan"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact us"
+                },
+                {
+                    "source": "templates\/xtechious-error-404.json",
+                    "name": "xtechious - Error 404"
+                },
+                {
+                    "source": "templates\/xtechious-single-post.json",
+                    "name": "xtechious - Single post"
+                },
+                {
+                    "source": "templates\/xtechious-archive.json",
+                    "name": "xtechious - Archive"
+                },
+                {
+                    "source": "templates\/xtechious-footer.json",
+                    "name": "xtechious - Footer"
+                }
+            ],
+            "filesize": 112876,
+            "dimensions": [
+                1512,
+                850
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-psd\/art-exhibition-abstract-banner-template_15186214.htm#&position=27&from_view=undefined"
+        },
+        {
+            "filename": "panel_dashboard.jpg",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/panel_dashboard-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage2.json",
+                    "name": "Homepage2"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 158664,
+            "dimensions": [
+                840,
+                560
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/dashboard-user-panel_6140710.htm#&position=5&from_view=undefined"
+        },
+        {
+            "filename": "dinancial-history.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/dinancial-history.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage2.json",
+                    "name": "Homepage2"
+                }
+            ],
+            "filesize": 12521,
+            "dimensions": [
+                290,
+                302
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/online-shop-dashboard-ui-kit-FR22ZGN?_ga=2.16611190.1312529307.1629442840-1463930584.1610465446"
+        },
+        {
+            "filename": "Order.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/Order.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage2.json",
+                    "name": "Homepage2"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 3549,
+            "dimensions": [
+                240,
+                120
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/online-shop-dashboard-ui-kit-FR22ZGN?_ga=2.16611190.1312529307.1629442840-1463930584.1610465446"
+        },
+        {
+            "filename": "bg_img2.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/bg_img2-800x517.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage2.json",
+                    "name": "Homepage2"
+                },
+                {
+                    "source": "templates\/homepage1.json",
+                    "name": "Homepage1"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing plan"
+                }
+            ],
+            "filesize": 60808,
+            "dimensions": [
+                1728,
+                1117
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "user.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/user.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage2.json",
+                    "name": "Homepage2"
+                },
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 27438,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/authors\/basic-gradient\/gradient"
+        },
+        {
+            "filename": "web-design.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/web-design.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage2.json",
+                    "name": "Homepage2"
+                },
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 5837,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/authors\/basic-gradient\/gradient"
+        },
+        {
+            "filename": "presentation.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/presentation.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage2.json",
+                    "name": "Homepage2"
+                },
+                {
+                    "source": "templates\/homepage1.json",
+                    "name": "Homepage1"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 16736,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/authors\/basic-gradient\/gradient"
+        },
+        {
+            "filename": "phone_mockup.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/phone_mockup.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage2.json",
+                    "name": "Homepage2"
+                },
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                }
+            ],
+            "filesize": 151783,
+            "dimensions": [
+                550,
+                588
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/finance-mobile-app-template-ui-kit-TP7FYN"
+        },
+        {
+            "filename": "bg_img3.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/bg_img3-800x450.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage2.json",
+                    "name": "Homepage2"
+                },
+                {
+                    "source": "templates\/homepage1.json",
+                    "name": "Homepage1"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                }
+            ],
+            "filesize": 74580,
+            "dimensions": [
+                1600,
+                899
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "blogging.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/blogging.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage2.json",
+                    "name": "Homepage2"
+                },
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact us"
+                }
+            ],
+            "filesize": 13914,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/authors\/basic-gradient\/gradient"
+        },
+        {
+            "filename": "settings.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/settings.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage2.json",
+                    "name": "Homepage2"
+                },
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                }
+            ],
+            "filesize": 14020,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/authors\/basic-gradient\/gradient"
+        },
+        {
+            "filename": "insurance.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/insurance.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage2.json",
+                    "name": "Homepage2"
+                },
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                }
+            ],
+            "filesize": 17591,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/authors\/basic-gradient\/gradient"
+        },
+        {
+            "filename": "device_img.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/device_img-800x439.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage2.json",
+                    "name": "Homepage2"
+                },
+                {
+                    "source": "templates\/homepage1.json",
+                    "name": "Homepage1"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 125937,
+            "dimensions": [
+                1029,
+                565
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/dashboard-user-panel_6140710.htm#&position=5&from_view=undefined"
+        },
+        {
+            "filename": "map_bg.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/map_bg-800x449.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage2.json",
+                    "name": "Homepage2"
+                },
+                {
+                    "source": "templates\/homepage1.json",
+                    "name": "Homepage1"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing plan"
+                }
+            ],
+            "filesize": 34831,
+            "dimensions": [
+                1080,
+                606
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/square-dotted-world-map-and-earth-globes-Q676QDA"
+        },
+        {
+            "filename": "img__0003_Layer-5.jpg",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/img__0003_Layer-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage2.json",
+                    "name": "Homepage2"
+                },
+                {
+                    "source": "templates\/homepage1.json",
+                    "name": "Homepage1"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing plan"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 47988,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/joyful-freckled-teenager-wears-round-transparent-g-EPRUCGN"
+        },
+        {
+            "filename": "img__0001_Layer-7.jpg",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/img__0001_Layer-7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage2.json",
+                    "name": "Homepage2"
+                },
+                {
+                    "source": "templates\/homepage1.json",
+                    "name": "Homepage1"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing plan"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 41345,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/horizontal-shot-of-pleasant-looking-ginger-young-e-F9MBGAR"
+        },
+        {
+            "filename": "img__0007_Layer-1.jpg",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/img__0007_Layer-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage2.json",
+                    "name": "Homepage2"
+                },
+                {
+                    "source": "templates\/homepage1.json",
+                    "name": "Homepage1"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing plan"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 42410,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pleased-cheerful-redhaired-male-with-pleasant-smil-CCXAYZL"
+        },
+        {
+            "filename": "bg_.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/bg_-800x457.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage2.json",
+                    "name": "Homepage2"
+                },
+                {
+                    "source": "templates\/homepage1.json",
+                    "name": "Homepage1"
+                }
+            ],
+            "filesize": 116050,
+            "dimensions": [
+                1512,
+                864
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/abstract-blue-modern-elegant-design-background_14979215.htm#page=2&position=5&from_view=undefined"
+        },
+        {
+            "filename": "dashboard.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/dashboard.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage2.json",
+                    "name": "Homepage2"
+                },
+                {
+                    "source": "templates\/homepage1.json",
+                    "name": "Homepage1"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 17185,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/authors\/basic-gradient\/gradient"
+        },
+        {
+            "filename": "high-performance.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/high-performance.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage2.json",
+                    "name": "Homepage2"
+                },
+                {
+                    "source": "templates\/homepage1.json",
+                    "name": "Homepage1"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 18517,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/authors\/basic-gradient\/gradient"
+        },
+        {
+            "filename": "mail.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/mail.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage2.json",
+                    "name": "Homepage2"
+                },
+                {
+                    "source": "templates\/homepage1.json",
+                    "name": "Homepage1"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact us"
+                }
+            ],
+            "filesize": 21058,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/authors\/basic-gradient\/gradient"
+        },
+        {
+            "filename": "cloud.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/cloud.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage2.json",
+                    "name": "Homepage2"
+                },
+                {
+                    "source": "templates\/homepage1.json",
+                    "name": "Homepage1"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 16242,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/authors\/basic-gradient\/gradient"
+        },
+        {
+            "filename": "crm.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/crm.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage2.json",
+                    "name": "Homepage2"
+                },
+                {
+                    "source": "templates\/homepage1.json",
+                    "name": "Homepage1"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 16303,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/authors\/basic-gradient\/gradient"
+        },
+        {
+            "filename": "app.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/app.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage2.json",
+                    "name": "Homepage2"
+                },
+                {
+                    "source": "templates\/homepage1.json",
+                    "name": "Homepage1"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 8565,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/authors\/basic-gradient\/gradient"
+        },
+        {
+            "filename": "social-media.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/social-media.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage2.json",
+                    "name": "Homepage2"
+                },
+                {
+                    "source": "templates\/homepage1.json",
+                    "name": "Homepage1"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 17277,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/authors\/basic-gradient\/gradient"
+        },
+        {
+            "filename": "ecommerce.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/ecommerce.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage2.json",
+                    "name": "Homepage2"
+                },
+                {
+                    "source": "templates\/homepage1.json",
+                    "name": "Homepage1"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 9707,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/authors\/basic-gradient\/gradient"
+        },
+        {
+            "filename": "faq_img.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/faq_img.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage2.json",
+                    "name": "Homepage2"
+                },
+                {
+                    "source": "templates\/homepage1.json",
+                    "name": "Homepage1"
+                },
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing plan"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 51317,
+            "dimensions": [
+                720,
+                405
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/giant-faq-tiny-people-flat-vector-illustration-cartoon-users-asking-questions-getting-help-problem-useful-instructions-information-concept_10613007.htm#&position=15&from_view=undefined"
+        },
+        {
+            "filename": "logo-1.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/logo-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage2.json",
+                    "name": "Homepage2"
+                },
+                {
+                    "source": "templates\/homepage1.json",
+                    "name": "Homepage1"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing plan"
+                }
+            ],
+            "filesize": 2063,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-2.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/logo-2.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage2.json",
+                    "name": "Homepage2"
+                },
+                {
+                    "source": "templates\/homepage1.json",
+                    "name": "Homepage1"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing plan"
+                }
+            ],
+            "filesize": 1811,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-3.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/logo-3.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage2.json",
+                    "name": "Homepage2"
+                },
+                {
+                    "source": "templates\/homepage1.json",
+                    "name": "Homepage1"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing plan"
+                }
+            ],
+            "filesize": 2079,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-4.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/logo-4.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage2.json",
+                    "name": "Homepage2"
+                },
+                {
+                    "source": "templates\/homepage1.json",
+                    "name": "Homepage1"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing plan"
+                }
+            ],
+            "filesize": 2193,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-5.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/logo-5.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage2.json",
+                    "name": "Homepage2"
+                },
+                {
+                    "source": "templates\/homepage1.json",
+                    "name": "Homepage1"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing plan"
+                }
+            ],
+            "filesize": 2300,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-11.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/logo-11.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage2.json",
+                    "name": "Homepage2"
+                },
+                {
+                    "source": "templates\/homepage1.json",
+                    "name": "Homepage1"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing plan"
+                }
+            ],
+            "filesize": 1900,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "product-impresions.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/product-impresions.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage1.json",
+                    "name": "Homepage1"
+                }
+            ],
+            "filesize": 14145,
+            "dimensions": [
+                380,
+                330
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/online-shop-dashboard-ui-kit-FR22ZGN?_ga=2.16611190.1312529307.1629442840-1463930584.1610465446"
+        },
+        {
+            "filename": "data-analysis.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/data-analysis.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage1.json",
+                    "name": "Homepage1"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 13194,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/authors\/basic-gradient\/gradient"
+        },
+        {
+            "filename": "megaphone.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/megaphone.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage1.json",
+                    "name": "Homepage1"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 14597,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/authors\/basic-gradient\/gradient"
+        },
+        {
+            "filename": "chat.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/chat.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage1.json",
+                    "name": "Homepage1"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 16769,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/authors\/basic-gradient\/gradient"
+        },
+        {
+            "filename": "feature_img_.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/feature_img_.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage1.json",
+                    "name": "Homepage1"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 50243,
+            "dimensions": [
+                720,
+                683
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/seo-agency-isometric-landing-page-digital-content_20684254.htm#&position=7&from_view=undefined"
+        },
+        {
+            "filename": "lightbulb.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/lightbulb.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 19853,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/authors\/basic-gradient\/gradient"
+        },
+        {
+            "filename": "layer.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/layer.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 17741,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/authors\/basic-gradient\/gradient"
+        },
+        {
+            "filename": "img__0004_Layer-4.jpg",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/img__0004_Layer-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 40613,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/waist-up-shot-of-handsome-self-confident-cheerful--BUTM9PX"
+        },
+        {
+            "filename": "img__0005_Layer-3.jpg",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/img__0005_Layer-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 43481,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-confident-male-entrepreneur-with-postive-smi-BDAU9DK"
+        },
+        {
+            "filename": "tools_img.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/tools_img.png",
+            "templates": [
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                }
+            ],
+            "filesize": 125622,
+            "dimensions": [
+                720,
+                669
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/vector-landing-page-business-education_16793926.htm#&position=3&from_view=undefined"
+        },
+        {
+            "filename": "sales-month.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/sales-month.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 15884,
+            "dimensions": [
+                380,
+                330
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/online-shop-dashboard-ui-kit-FR22ZGN?_ga=2.16611190.1312529307.1629442840-1463930584.1610465446"
+        },
+        {
+            "filename": "team_img_.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/team_img_.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 102182,
+            "dimensions": [
+                720,
+                523
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/business-team-putting-together-jigsaw-puzzle-isolated-flat-vector-illustration-cartoon-partners-working-connection-teamwork-partnership-cooperation-concept_10606197.htm#&position=9&from_view=undefined"
+        },
+        {
+            "filename": "img__0006_Layer-2.jpg",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/img__0006_Layer-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 50306,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/joyful-freckled-teenager-wears-round-transparent-g-EPRUCGN"
+        },
+        {
+            "filename": "img__0002_Layer-6.jpg",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/img__0002_Layer-6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 58477,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/carefree-attractive-girl-with-pleasant-look-enjoys-4GXJZTE"
+        },
+        {
+            "filename": "img__0000_Layer-8.jpg",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/img__0000_Layer-8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 33914,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/optimistic-positive-handsome-bearded-man-FXXXGY4"
+        },
+        {
+            "filename": "team_img.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/team_img.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 34335,
+            "dimensions": [
+                720,
+                456
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/colleagues-working-together-project_9174459.htm#&position=11&from_view=undefined"
+        },
+        {
+            "filename": "location-pin.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/location-pin.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact us"
+                }
+            ],
+            "filesize": 17247,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/authors\/basic-gradient\/gradient"
+        },
+        {
+            "filename": "phone-call.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/phone-call.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact us"
+                }
+            ],
+            "filesize": 22314,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/authors\/basic-gradient\/gradient"
+        },
+        {
+            "filename": "error_404.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/error_404.png",
+            "templates": [
+                {
+                    "source": "templates\/xtechious-error-404.json",
+                    "name": "xtechious - Error 404"
+                }
+            ],
+            "filesize": 43431,
+            "dimensions": [
+                443,
+                261
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/giant-faq-tiny-people-flat-vector-illustration-cartoon-users-asking-questions-getting-help-problem-useful-instructions-information-concept_10613007.htm#&position=15&from_view=undefined"
+        },
+        {
+            "filename": "Logo_xtechious.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/xtechious\/wp-content\/uploads\/sites\/10\/2022\/07\/Logo_xtechious.png",
+            "templates": [
+                {
+                    "source": "templates\/xtechious-footer.json",
+                    "name": "xtechious - Footer"
+                },
+                {
+                    "source": "templates\/xtechious-header.json",
+                    "name": "xtechious - Header"
+                }
+            ],
+            "filesize": 9362,
+            "dimensions": [
+                525,
+                135
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

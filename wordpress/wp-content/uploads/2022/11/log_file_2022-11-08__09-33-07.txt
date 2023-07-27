@@ -1,0 +1,739 @@
+
+---Downloaded files---
+The import files for: Demo Import were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/Mat%20H/bizplan/wordpress
+Data file = C:\xampp\htdocs\Mat H\bizplan\wordpress/wp-content/uploads/2022/11/demo-content-import-file_2022-11-08__09-33-07.xml
+Widget file = C:\xampp\htdocs\Mat H\bizplan\wordpress/wp-content/uploads/2022/11/demo-widgets-import-file_2022-11-08__09-33-07.json
+Customizer file = C:\xampp\htdocs\Mat H\bizplan\wordpress/wp-content/uploads/2022/11/demo-customizer-import-file_2022-11-08__09-33-07.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat App
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag automatic
+[WARNING] Failed to import product_cat Design
+[WARNING] Failed to import product_tag drill
+[WARNING] Failed to import product_tag drills
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import project_category group-01
+[WARNING] Failed to import project_category group-02
+[WARNING] Failed to import project_category group-03
+[WARNING] Failed to import project_category group-04
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import project_category Instant Conversations
+[WARNING] Failed to import project_category IT Consulting Services
+[WARNING] Failed to import product_cat IT Solution
+[WARNING] Failed to import project_category IT Strategy and Planning
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import project_category Planner Board
+[WARNING] Failed to import project_category Productivity Tools
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import elementor_library_type section
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Technology
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import project_category Web Development
+[WARNING] Failed to import product_tag wireless
+[WARNING] Failed to import project_category Business Technology Evaluation
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat App
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag automatic
+[WARNING] Failed to import product_cat Design
+[WARNING] Failed to import product_tag drill
+[WARNING] Failed to import product_tag drills
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import project_category group-01
+[WARNING] Failed to import project_category group-02
+[WARNING] Failed to import project_category group-03
+[WARNING] Failed to import project_category group-04
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import project_category Instant Conversations
+[WARNING] Failed to import project_category IT Consulting Services
+[WARNING] Failed to import product_cat IT Solution
+[WARNING] Failed to import project_category IT Strategy and Planning
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import project_category Planner Board
+[WARNING] Failed to import project_category Productivity Tools
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import elementor_library_type section
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Technology
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import project_category Web Development
+[WARNING] Failed to import product_tag wireless
+[WARNING] Failed to import project_category Business Technology Evaluation
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat App
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag automatic
+[WARNING] Failed to import product_cat Design
+[WARNING] Failed to import product_tag drill
+[WARNING] Failed to import product_tag drills
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import project_category group-01
+[WARNING] Failed to import project_category group-02
+[WARNING] Failed to import project_category group-03
+[WARNING] Failed to import project_category group-04
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import project_category Instant Conversations
+[WARNING] Failed to import project_category IT Consulting Services
+[WARNING] Failed to import product_cat IT Solution
+[WARNING] Failed to import project_category IT Strategy and Planning
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import project_category Planner Board
+[WARNING] Failed to import project_category Productivity Tools
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import elementor_library_type section
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Technology
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import project_category Web Development
+[WARNING] Failed to import product_tag wireless
+[WARNING] Failed to import project_category Business Technology Evaluation
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat App
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag automatic
+[WARNING] Failed to import product_cat Design
+[WARNING] Failed to import product_tag drill
+[WARNING] Failed to import product_tag drills
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import project_category group-01
+[WARNING] Failed to import project_category group-02
+[WARNING] Failed to import project_category group-03
+[WARNING] Failed to import project_category group-04
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import project_category Instant Conversations
+[WARNING] Failed to import project_category IT Consulting Services
+[WARNING] Failed to import product_cat IT Solution
+[WARNING] Failed to import project_category IT Strategy and Planning
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import project_category Planner Board
+[WARNING] Failed to import project_category Productivity Tools
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import elementor_library_type section
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Technology
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import project_category Web Development
+[WARNING] Failed to import product_tag wireless
+[WARNING] Failed to import project_category Business Technology Evaluation
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat App
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag automatic
+[WARNING] Failed to import product_cat Design
+[WARNING] Failed to import product_tag drill
+[WARNING] Failed to import product_tag drills
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import project_category group-01
+[WARNING] Failed to import project_category group-02
+[WARNING] Failed to import project_category group-03
+[WARNING] Failed to import project_category group-04
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import project_category Instant Conversations
+[WARNING] Failed to import project_category IT Consulting Services
+[WARNING] Failed to import product_cat IT Solution
+[WARNING] Failed to import project_category IT Strategy and Planning
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import project_category Planner Board
+[WARNING] Failed to import project_category Productivity Tools
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import elementor_library_type section
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Technology
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import project_category Web Development
+[WARNING] Failed to import product_tag wireless
+[WARNING] Failed to import project_category Business Technology Evaluation
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat App
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag automatic
+[WARNING] Failed to import product_cat Design
+[WARNING] Failed to import product_tag drill
+[WARNING] Failed to import product_tag drills
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import project_category group-01
+[WARNING] Failed to import project_category group-02
+[WARNING] Failed to import project_category group-03
+[WARNING] Failed to import project_category group-04
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import project_category Instant Conversations
+[WARNING] Failed to import project_category IT Consulting Services
+[WARNING] Failed to import product_cat IT Solution
+[WARNING] Failed to import project_category IT Strategy and Planning
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import project_category Planner Board
+[WARNING] Failed to import project_category Productivity Tools
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import elementor_library_type section
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Technology
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import project_category Web Development
+[WARNING] Failed to import product_tag wireless
+[WARNING] Failed to import project_category Business Technology Evaluation
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat App
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag automatic
+[WARNING] Failed to import product_cat Design
+[WARNING] Failed to import product_tag drill
+[WARNING] Failed to import product_tag drills
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import project_category group-01
+[WARNING] Failed to import project_category group-02
+[WARNING] Failed to import project_category group-03
+[WARNING] Failed to import project_category group-04
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import project_category Instant Conversations
+[WARNING] Failed to import project_category IT Consulting Services
+[WARNING] Failed to import product_cat IT Solution
+[WARNING] Failed to import project_category IT Strategy and Planning
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import project_category Planner Board
+[WARNING] Failed to import project_category Productivity Tools
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import elementor_library_type section
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Technology
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import project_category Web Development
+[WARNING] Failed to import product_tag wireless
+[WARNING] Failed to import project_category Business Technology Evaluation
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat App
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag automatic
+[WARNING] Failed to import product_cat Design
+[WARNING] Failed to import product_tag drill
+[WARNING] Failed to import product_tag drills
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import project_category group-01
+[WARNING] Failed to import project_category group-02
+[WARNING] Failed to import project_category group-03
+[WARNING] Failed to import project_category group-04
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import project_category Instant Conversations
+[WARNING] Failed to import project_category IT Consulting Services
+[WARNING] Failed to import product_cat IT Solution
+[WARNING] Failed to import project_category IT Strategy and Planning
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import project_category Planner Board
+[WARNING] Failed to import project_category Productivity Tools
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import elementor_library_type section
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Technology
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import project_category Web Development
+[WARNING] Failed to import product_tag wireless
+[WARNING] Failed to import project_category Business Technology Evaluation
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat App
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag automatic
+[WARNING] Failed to import product_cat Design
+[WARNING] Failed to import product_tag drill
+[WARNING] Failed to import product_tag drills
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import project_category group-01
+[WARNING] Failed to import project_category group-02
+[WARNING] Failed to import project_category group-03
+[WARNING] Failed to import project_category group-04
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import project_category Instant Conversations
+[WARNING] Failed to import project_category IT Consulting Services
+[WARNING] Failed to import product_cat IT Solution
+[WARNING] Failed to import project_category IT Strategy and Planning
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import project_category Planner Board
+[WARNING] Failed to import project_category Productivity Tools
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import elementor_library_type section
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Technology
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import project_category Web Development
+[WARNING] Failed to import product_tag wireless
+[WARNING] Failed to import project_category Business Technology Evaluation
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat App
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag automatic
+[WARNING] Failed to import product_cat Design
+[WARNING] Failed to import product_tag drill
+[WARNING] Failed to import product_tag drills
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import project_category group-01
+[WARNING] Failed to import project_category group-02
+[WARNING] Failed to import project_category group-03
+[WARNING] Failed to import project_category group-04
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import project_category Instant Conversations
+[WARNING] Failed to import project_category IT Consulting Services
+[WARNING] Failed to import product_cat IT Solution
+[WARNING] Failed to import project_category IT Strategy and Planning
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import project_category Planner Board
+[WARNING] Failed to import project_category Productivity Tools
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import elementor_library_type section
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Technology
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import project_category Web Development
+[WARNING] Failed to import product_tag wireless
+[WARNING] Failed to import project_category Business Technology Evaluation
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat App
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag automatic
+[WARNING] Failed to import product_cat Design
+[WARNING] Failed to import product_tag drill
+[WARNING] Failed to import product_tag drills
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import project_category group-01
+[WARNING] Failed to import project_category group-02
+[WARNING] Failed to import project_category group-03
+[WARNING] Failed to import project_category group-04
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import project_category Instant Conversations
+[WARNING] Failed to import project_category IT Consulting Services
+[WARNING] Failed to import product_cat IT Solution
+[WARNING] Failed to import project_category IT Strategy and Planning
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import project_category Planner Board
+[WARNING] Failed to import project_category Productivity Tools
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import elementor_library_type section
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Technology
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import project_category Web Development
+[WARNING] Failed to import product_tag wireless
+[WARNING] Failed to import project_category Business Technology Evaluation
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat App
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag automatic
+[WARNING] Failed to import product_cat Design
+[WARNING] Failed to import product_tag drill
+[WARNING] Failed to import product_tag drills
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import project_category group-01
+[WARNING] Failed to import project_category group-02
+[WARNING] Failed to import project_category group-03
+[WARNING] Failed to import project_category group-04
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import project_category Instant Conversations
+[WARNING] Failed to import project_category IT Consulting Services
+[WARNING] Failed to import product_cat IT Solution
+[WARNING] Failed to import project_category IT Strategy and Planning
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import project_category Planner Board
+[WARNING] Failed to import project_category Productivity Tools
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import elementor_library_type section
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Technology
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import project_category Web Development
+[WARNING] Failed to import product_tag wireless
+[WARNING] Failed to import project_category Business Technology Evaluation
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat App
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag automatic
+[WARNING] Failed to import product_cat Design
+[WARNING] Failed to import product_tag drill
+[WARNING] Failed to import product_tag drills
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import project_category group-01
+[WARNING] Failed to import project_category group-02
+[WARNING] Failed to import project_category group-03
+[WARNING] Failed to import project_category group-04
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import project_category Instant Conversations
+[WARNING] Failed to import project_category IT Consulting Services
+[WARNING] Failed to import product_cat IT Solution
+[WARNING] Failed to import project_category IT Strategy and Planning
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import project_category Planner Board
+[WARNING] Failed to import project_category Productivity Tools
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import elementor_library_type section
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Technology
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import project_category Web Development
+[WARNING] Failed to import product_tag wireless
+[WARNING] Failed to import project_category Business Technology Evaluation
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat App
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag automatic
+[WARNING] Failed to import product_cat Design
+[WARNING] Failed to import product_tag drill
+[WARNING] Failed to import product_tag drills
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import project_category group-01
+[WARNING] Failed to import project_category group-02
+[WARNING] Failed to import project_category group-03
+[WARNING] Failed to import project_category group-04
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import project_category Instant Conversations
+[WARNING] Failed to import project_category IT Consulting Services
+[WARNING] Failed to import product_cat IT Solution
+[WARNING] Failed to import project_category IT Strategy and Planning
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import project_category Planner Board
+[WARNING] Failed to import project_category Productivity Tools
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import elementor_library_type section
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Technology
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import project_category Web Development
+[WARNING] Failed to import product_tag wireless
+[WARNING] Failed to import project_category Business Technology Evaluation
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat App
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag automatic
+[WARNING] Failed to import product_cat Design
+[WARNING] Failed to import product_tag drill
+[WARNING] Failed to import product_tag drills
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import project_category group-01
+[WARNING] Failed to import project_category group-02
+[WARNING] Failed to import project_category group-03
+[WARNING] Failed to import project_category group-04
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import project_category Instant Conversations
+[WARNING] Failed to import project_category IT Consulting Services
+[WARNING] Failed to import product_cat IT Solution
+[WARNING] Failed to import project_category IT Strategy and Planning
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import project_category Planner Board
+[WARNING] Failed to import project_category Productivity Tools
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import elementor_library_type section
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Technology
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import project_category Web Development
+[WARNING] Failed to import product_tag wireless
+[WARNING] Failed to import project_category Business Technology Evaluation
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat App
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag automatic
+[WARNING] Failed to import product_cat Design
+[WARNING] Failed to import product_tag drill
+[WARNING] Failed to import product_tag drills
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import project_category group-01
+[WARNING] Failed to import project_category group-02
+[WARNING] Failed to import project_category group-03
+[WARNING] Failed to import project_category group-04
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import project_category Instant Conversations
+[WARNING] Failed to import project_category IT Consulting Services
+[WARNING] Failed to import product_cat IT Solution
+[WARNING] Failed to import project_category IT Strategy and Planning
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import project_category Planner Board
+[WARNING] Failed to import project_category Productivity Tools
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import elementor_library_type section
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Technology
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import project_category Web Development
+[WARNING] Failed to import product_tag wireless
+[WARNING] Failed to import project_category Business Technology Evaluation
+[WARNING] Failed to import "Default Kit": Invalid post type elementor_library
+[WARNING] Failed to import "Project Single": Invalid post type elementor_library
+[WARNING] Failed to import "Home 02- Tabs template": Invalid post type elementor_library
+[WARNING] Failed to import "Home 02- Tabs template (dark)": Invalid post type elementor_library
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat App
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag automatic
+[WARNING] Failed to import product_cat Design
+[WARNING] Failed to import product_tag drill
+[WARNING] Failed to import product_tag drills
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import project_category group-01
+[WARNING] Failed to import project_category group-02
+[WARNING] Failed to import project_category group-03
+[WARNING] Failed to import project_category group-04
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import project_category Instant Conversations
+[WARNING] Failed to import project_category IT Consulting Services
+[WARNING] Failed to import product_cat IT Solution
+[WARNING] Failed to import project_category IT Strategy and Planning
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import project_category Planner Board
+[WARNING] Failed to import project_category Productivity Tools
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import elementor_library_type section
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Technology
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import project_category Web Development
+[WARNING] Failed to import product_tag wireless
+[WARNING] Failed to import project_category Business Technology Evaluation
+[WARNING] Failed to import "Default Kit": Invalid post type elementor_library
+[WARNING] Failed to import "Project Single": Invalid post type elementor_library
+[WARNING] Failed to import "Home 02- Tabs template": Invalid post type elementor_library
+[WARNING] Failed to import "Home 02- Tabs template (dark)": Invalid post type elementor_library
+[WARNING] Failed to import "February 8, 2021 @ 12:05 am (User: 1)": Invalid post type booked_appointments
+[WARNING] Failed to import "February 15, 2021 @ 12:05 am (User: 1)": Invalid post type booked_appointments
+[WARNING] Failed to import "": Invalid post type mc4wp-form
+[WARNING] Failed to import "Home 03- Tabs template": Invalid post type elementor_library
+[WARNING] Failed to import "Home 03- Carousel": Invalid post type elementor_library
+[WARNING] Failed to import "Home 03- Carousel (Dark)": Invalid post type elementor_library
+[WARNING] Failed to import "Home 03- Tabs Template (Dark)": Invalid post type elementor_library
+[WARNING] Failed to import "Home 09 - Icon Box 1": Invalid post type elementor_library
+[WARNING] Failed to import "Home 09 - Icon Box 2": Invalid post type elementor_library
+[WARNING] Failed to import "Home 09 - Icon Box 3": Invalid post type elementor_library
+[WARNING] Failed to import "Home 13 - Icon Box 1": Invalid post type elementor_library
+[WARNING] Failed to import "Home 13 - Icon Box 2": Invalid post type elementor_library
+[WARNING] Failed to import "Home 13 - Icon Box 3": Invalid post type elementor_library
+[WARNING] Failed to import "Home 15 - Timeline 1": Invalid post type elementor_library
+[WARNING] Failed to import "Home 15 - Timeline 2": Invalid post type elementor_library
+[WARNING] Failed to import "Home 15 - Timeline 3": Invalid post type elementor_library
+[WARNING] Failed to import "Beoplay A9": Invalid post type product
+
+
+---Importing widgets---
+Sidebar Blog : 
+
+Search - No Title - Imported
+Categories - Categories - Imported
+widget_news_post - Recent Posts - Site does not support widget
+Custom HTML - No Title - Imported
+Tag Cloud - Tags - Imported
+
+Sidebar Shop : 
+
+woocommerce_product_categories - Product categories - Site does not support widget
+woocommerce_price_filter - Filter by price - Site does not support widget
+
+Sidebar Footer 1 : 
+
+Text - No Title - Imported
+widget_information - No Title - Site does not support widget
+
+Sidebar Footer 2 : 
+
+widget_links - About - Site does not support widget
+
+Sidebar Footer 3 : 
+
+widget_links - Features - Site does not support widget
+
+Sidebar Footer 4 : 
+
+Text - Contact - Imported
+widget_socials - No Title - Site does not support widget
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

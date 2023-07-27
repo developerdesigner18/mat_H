@@ -1,0 +1,996 @@
+@font-face {
+  font-family: 'silvertech-icons';
+  src:  url('../fonts/silvertech-icons/silvertech-icons.eot?m8tfi8');
+  src:  url('../fonts/silvertech-icons/silvertech-icons.eot?m8tfi8#iefix') format('embedded-opentype'),
+    url('../fonts/silvertech-icons/silvertech-icons.ttf?m8tfi8') format('truetype'),
+    url('../fonts/silvertech-icons/silvertech-icons.woff?m8tfi8') format('woff'),
+    url('../fonts/silvertech-icons/silvertech-icons.svg?m8tfi8#silvertech-icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="qico-"], [class*="qico-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'silvertech-icons' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.qico-vacuum-cleaner:before {
+  content: "\e900";
+}
+.qico-helmet:before {
+  content: "\e901";
+}
+.qico-safety-glasses:before {
+  content: "\e902";
+}
+.qico-barbecue:before {
+  content: "\e903";
+}
+.qico-labor-day:before {
+  content: "\e904";
+}
+.qico-cleaning:before {
+  content: "\e905";
+}
+.qico-shovel:before {
+  content: "\e906";
+}
+.qico-pipe:before {
+  content: "\e907";
+}
+.qico-traffic-cone:before {
+  content: "\e908";
+}
+.qico-crane:before {
+  content: "\e909";
+}
+.qico-paint-roller:before {
+  content: "\e90a";
+}
+.qico-spade:before {
+  content: "\e90b";
+}
+.qico-labor-day1:before {
+  content: "\e90c";
+}
+.qico-toolbox:before {
+  content: "\e90d";
+}
+.qico-drill:before {
+  content: "\e90e";
+}
+.qico-ladder:before {
+  content: "\e90f";
+}
+.qico-barrier:before {
+  content: "\e910";
+}
+.qico-labor-day2:before {
+  content: "\e911";
+}
+.qico-settings:before {
+  content: "\e912";
+}
+.qico-screwdriver:before {
+  content: "\e913";
+}
+.qico-nut:before {
+  content: "\e914";
+}
+.qico-wrench:before {
+  content: "\e915";
+}
+.qico-labor-day3:before {
+  content: "\e916";
+}
+.qico-plunger:before {
+  content: "\e917";
+}
+.qico-rulers:before {
+  content: "\e918";
+}
+.qico-tape:before {
+  content: "\e919";
+}
+.qico-brick-wall:before {
+  content: "\e91a";
+}
+.qico-axe:before {
+  content: "\e91b";
+}
+.qico-working-hours:before {
+  content: "\e91c";
+}
+.qico-labor-day4:before {
+  content: "\e91d";
+}
+.qico-wheelbarrow:before {
+  content: "\e91e";
+}
+.qico-labor-day5:before {
+  content: "\e91f";
+}
+.qico-helmet1:before {
+  content: "\e920";
+}
+.qico-balloons:before {
+  content: "\e921";
+}
+.qico-circular-saw:before {
+  content: "\e922";
+}
+.qico-hammer:before {
+  content: "\e923";
+}
+.qico-screw:before {
+  content: "\e924";
+}
+.qico-cutter:before {
+  content: "\e925";
+}
+.qico-high-visibility-vest:before {
+  content: "\e926";
+}
+.qico-tool:before {
+  content: "\e927";
+}
+.qico-nails:before {
+  content: "\e928";
+}
+.qico-brush:before {
+  content: "\e929";
+}
+.qico-jackhammer:before {
+  content: "\e92a";
+}
+.qico-saw-machine:before {
+  content: "\e92b";
+}
+.qico-glove:before {
+  content: "\e92c";
+}
+.qico-labor-day6:before {
+  content: "\e92d";
+}
+.qico-basket:before {
+  content: "\e92e";
+}
+.qico-saw:before {
+  content: "\e92f";
+}
+.qico-labor-day7:before {
+  content: "\e930";
+}
+.qico-pencil:before {
+  content: "\e931";
+}
+.qico-paypal:before {
+  content: "\e932";
+}
+.qico-cloud-computing:before {
+  content: "\e933";
+}
+.qico-worldwide:before {
+  content: "\e934";
+}
+.qico-rss:before {
+  content: "\e935";
+}
+.qico-twitter:before {
+  content: "\e936";
+}
+.qico-hashtag:before {
+  content: "\e937";
+}
+.qico-pin:before {
+  content: "\e938";
+}
+.qico-heart:before {
+  content: "\e939";
+}
+.qico-xing:before {
+  content: "\e93a";
+}
+.qico-star:before {
+  content: "\e93b";
+}
+.qico-windows:before {
+  content: "\e93c";
+}
+.qico-network:before {
+  content: "\e93d";
+}
+.qico-facebook:before {
+  content: "\e93e";
+}
+.qico-instagram:before {
+  content: "\e93f";
+}
+.qico-linkedin:before {
+  content: "\e940";
+}
+.qico-like:before {
+  content: "\e941";
+}
+.qico-dislike:before {
+  content: "\e942";
+}
+.qico-youtube:before {
+  content: "\e943";
+}
+.qico-messenger:before {
+  content: "\e944";
+}
+.qico-telegram:before {
+  content: "\e945";
+}
+.qico-chat:before {
+  content: "\e946";
+}
+.qico-happy:before {
+  content: "\e947";
+}
+.qico-sad:before {
+  content: "\e948";
+}
+.qico-file:before {
+  content: "\e949";
+}
+.qico-file-1:before {
+  content: "\e94a";
+}
+.qico-playstore:before {
+  content: "\e94b";
+}
+.qico-whatsapp:before {
+  content: "\e94c";
+}
+.qico-skype:before {
+  content: "\e94d";
+}
+.qico-retweet:before {
+  content: "\e94e";
+}
+.qico-chat-1:before {
+  content: "\e94f";
+}
+.qico-photo-camera:before {
+  content: "\e950";
+}
+.qico-network-1:before {
+  content: "\e951";
+}
+.qico-image:before {
+  content: "\e952";
+}
+.qico-myspace:before {
+  content: "\e953";
+}
+.qico-user:before {
+  content: "\e954";
+}
+.qico-network-2:before {
+  content: "\e955";
+}
+.qico-information:before {
+  content: "\e956";
+}
+.qico-like-1:before {
+  content: "\e957";
+}
+.qico-happy-1:before {
+  content: "\e958";
+}
+.qico-deviantart:before {
+  content: "\e959";
+}
+.qico-vimeo:before {
+  content: "\e95a";
+}
+.qico-behance:before {
+  content: "\e95b";
+}
+.qico-email:before {
+  content: "\e95c";
+}
+.qico-flickr:before {
+  content: "\e95d";
+}
+.qico-suitcase:before {
+  content: "\e95e";
+}
+.qico-network-3:before {
+  content: "\e95f";
+}
+.qico-chat-2:before {
+  content: "\e960";
+}
+.qico-notification:before {
+  content: "\e961";
+}
+.qico-agenda:before {
+  content: "\e962";
+}
+.qico-megaphone:before {
+  content: "\e963";
+}
+.qico-percentage:before {
+  content: "\e964";
+}
+.qico-oil:before {
+  content: "\e965";
+}
+.qico-bar-chart-1:before {
+  content: "\e966";
+}
+.qico-abacus:before {
+  content: "\e967";
+}
+.qico-book:before {
+  content: "\e968";
+}
+.qico-archives:before {
+  content: "\e969";
+}
+.qico-pie-chart:before {
+  content: "\e96a";
+}
+.qico-analytics-2:before {
+  content: "\e96b";
+}
+.qico-fluctuation:before {
+  content: "\e96c";
+}
+.qico-calculator:before {
+  content: "\e96d";
+}
+.qico-contract:before {
+  content: "\e96e";
+}
+.qico-buy:before {
+  content: "\e96f";
+}
+.qico-auction:before {
+  content: "\e970";
+}
+.qico-point-of-service:before {
+  content: "\e971";
+}
+.qico-analytics-1:before {
+  content: "\e972";
+}
+.qico-sell:before {
+  content: "\e973";
+}
+.qico-target:before {
+  content: "\e974";
+}
+.qico-newspaper:before {
+  content: "\e975";
+}
+.qico-donation:before {
+  content: "\e976";
+}
+.qico-loss-1:before {
+  content: "\e977";
+}
+.qico-bank:before {
+  content: "\e978";
+}
+.qico-cheque:before {
+  content: "\e979";
+}
+.qico-safebox:before {
+  content: "\e97a";
+}
+.qico-money-2:before {
+  content: "\e97b";
+}
+.qico-payment-method:before {
+  content: "\e97c";
+}
+.qico-id-card:before {
+  content: "\e97d";
+}
+.qico-purse:before {
+  content: "\e97e";
+}
+.qico-bar-chart:before {
+  content: "\e97f";
+}
+.qico-chat1:before {
+  content: "\e980";
+}
+.qico-businessman-1:before {
+  content: "\e981";
+}
+.qico-businessman:before {
+  content: "\e982";
+}
+.qico-presentation:before {
+  content: "\e983";
+}
+.qico-gold-ingot:before {
+  content: "\e984";
+}
+.qico-profits:before {
+  content: "\e985";
+}
+.qico-balance:before {
+  content: "\e986";
+}
+.qico-money-bag:before {
+  content: "\e987";
+}
+.qico-wallet:before {
+  content: "\e988";
+}
+.qico-loss:before {
+  content: "\e989";
+}
+.qico-shield:before {
+  content: "\e98a";
+}
+.qico-atm:before {
+  content: "\e98b";
+}
+.qico-money-1:before {
+  content: "\e98c";
+}
+.qico-analytics:before {
+  content: "\e98d";
+}
+.qico-briefcase:before {
+  content: "\e98e";
+}
+.qico-search:before {
+  content: "\e98f";
+}
+.qico-levels:before {
+  content: "\e990";
+}
+.qico-pin-code:before {
+  content: "\e991";
+}
+.qico-time-is-money:before {
+  content: "\e992";
+}
+.qico-withdraw:before {
+  content: "\e993";
+}
+.qico-money:before {
+  content: "\e994";
+}
+.qico-exchange:before {
+  content: "\e995";
+}
+.qico-picture:before {
+  content: "\e996";
+}
+.qico-art:before {
+  content: "\e997";
+}
+.qico-paint:before {
+  content: "\e998";
+}
+.qico-piano:before {
+  content: "\e999";
+}
+.qico-roll:before {
+  content: "\e99a";
+}
+.qico-easel:before {
+  content: "\e99b";
+}
+.qico-ceramics:before {
+  content: "\e99c";
+}
+.qico-magician:before {
+  content: "\e99d";
+}
+.qico-ink:before {
+  content: "\e99e";
+}
+.qico-turntable:before {
+  content: "\e99f";
+}
+.qico-graffiti:before {
+  content: "\e9a0";
+}
+.qico-camera:before {
+  content: "\e9a1";
+}
+.qico-palette:before {
+  content: "\e9a2";
+}
+.qico-artist:before {
+  content: "\e9a3";
+}
+.qico-crayons:before {
+  content: "\e9a4";
+}
+.qico-column:before {
+  content: "\e9a5";
+}
+.qico-rules:before {
+  content: "\e9a6";
+}
+.qico-graphic-design:before {
+  content: "\e9a7";
+}
+.qico-pen-tool:before {
+  content: "\e9a8";
+}
+.qico-idea:before {
+  content: "\e9a9";
+}
+.qico-theater:before {
+  content: "\e9aa";
+}
+.qico-paper-cut:before {
+  content: "\e9ab";
+}
+.qico-book1:before {
+  content: "\e9ac";
+}
+.qico-singer:before {
+  content: "\e9ad";
+}
+.qico-circus:before {
+  content: "\e9ae";
+}
+.qico-pantone:before {
+  content: "\e9af";
+}
+.qico-vector:before {
+  content: "\e9b0";
+}
+.qico-color-wheel:before {
+  content: "\e9b1";
+}
+.qico-gallery:before {
+  content: "\e9b2";
+}
+.qico-Watercolor:before {
+  content: "\e9b3";
+}
+.qico-origami:before {
+  content: "\e9b4";
+}
+.qico-technical:before {
+  content: "\e9b5";
+}
+.qico-make-up:before {
+  content: "\e9b6";
+}
+.qico-cinema:before {
+  content: "\e9b7";
+}
+.qico-modern-architecture:before {
+  content: "\e9b8";
+}
+.qico-ice-skating:before {
+  content: "\e9b9";
+}
+.qico-guitar-music:before {
+  content: "\e9ba";
+}
+.qico-graphic-tablet:before {
+  content: "\e9bb";
+}
+.qico-typewriter:before {
+  content: "\e9bc";
+}
+.qico-clapperboard:before {
+  content: "\e9bd";
+}
+.qico-art1:before {
+  content: "\e9be";
+}
+.qico-blueprint:before {
+  content: "\e9bf";
+}
+.qico-cooking:before {
+  content: "\e9c0";
+}
+.qico-sketchbook:before {
+  content: "\e9c1";
+}
+.qico-draw:before {
+  content: "\e9c2";
+}
+.qico-artist1:before {
+  content: "\e9c3";
+}
+.qico-bohemian:before {
+  content: "\e9c4";
+}
+.qico-mortarboard:before {
+  content: "\e9c5";
+}
+.qico-Jazz:before {
+  content: "\e9c6";
+}
+.qico-ink1:before {
+  content: "\e9c7";
+}
+.qico-ring:before {
+  content: "\e9c8";
+}
+.qico-bust:before {
+  content: "\e9c9";
+}
+.qico-desk:before {
+  content: "\e9ca";
+}
+.qico-write:before {
+  content: "\e9cb";
+}
+.qico-tickets:before {
+  content: "\e9cc";
+}
+.qico-airbrush:before {
+  content: "\e9cd";
+}
+.qico-oil-paint:before {
+  content: "\e9ce";
+}
+.qico-camera1:before {
+  content: "\e9cf";
+}
+.qico-theater1:before {
+  content: "\e9d0";
+}
+.qico-scraper-1:before {
+  content: "\e9d1";
+}
+.qico-wrench-1:before {
+  content: "\e9d2";
+}
+.qico-wrench1:before {
+  content: "\e9d3";
+}
+.qico-wood-cutter:before {
+  content: "\e9d4";
+}
+.qico-axe1:before {
+  content: "\e9d5";
+}
+.qico-wall:before {
+  content: "\e9d6";
+}
+.qico-level-1:before {
+  content: "\e9d7";
+}
+.qico-wheelbarrow-1:before {
+  content: "\e9d8";
+}
+.qico-wheelbarrow1:before {
+  content: "\e9d9";
+}
+.qico-tiles-1:before {
+  content: "\e9da";
+}
+.qico-tiles:before {
+  content: "\e9db";
+}
+.qico-measuring-tape:before {
+  content: "\e9dc";
+}
+.qico-level:before {
+  content: "\e9dd";
+}
+.qico-shovel-3:before {
+  content: "\e9de";
+}
+.qico-shovel-2:before {
+  content: "\e9df";
+}
+.qico-shovel-1:before {
+  content: "\e9e0";
+}
+.qico-shovel1:before {
+  content: "\e9e1";
+}
+.qico-screwdriver-1:before {
+  content: "\e9e2";
+}
+.qico-screwdriver1:before {
+  content: "\e9e3";
+}
+.qico-screw1:before {
+  content: "\e9e4";
+}
+.qico-trowel-1:before {
+  content: "\e9e5";
+}
+.qico-trowel:before {
+  content: "\e9e6";
+}
+.qico-scraper:before {
+  content: "\e9e7";
+}
+.qico-saw-1:before {
+  content: "\e9e8";
+}
+.qico-set-square:before {
+  content: "\e9e9";
+}
+.qico-jackhammer1:before {
+  content: "\e9ea";
+}
+.qico-gas-mask:before {
+  content: "\e9eb";
+}
+.qico-vest:before {
+  content: "\e9ec";
+}
+.qico-safety-glasses-1:before {
+  content: "\e9ed";
+}
+.qico-safety-glasses1:before {
+  content: "\e9ee";
+}
+.qico-saw1:before {
+  content: "\e9ef";
+}
+.qico-paint-roller-1:before {
+  content: "\e9f0";
+}
+.qico-paint-roller1:before {
+  content: "\e9f1";
+}
+.qico-paint-bucket:before {
+  content: "\e9f2";
+}
+.qico-paint-brush:before {
+  content: "\e9f3";
+}
+.qico-oil-pump:before {
+  content: "\e9f4";
+}
+.qico-tools:before {
+  content: "\e9f5";
+}
+.qico-metre:before {
+  content: "\e9f6";
+}
+.qico-material:before {
+  content: "\e9f7";
+}
+.qico-helmet-1:before {
+  content: "\e9f8";
+}
+.qico-helmet2:before {
+  content: "\e9f9";
+}
+.qico-hammer-1:before {
+  content: "\e9fa";
+}
+.qico-hammer1:before {
+  content: "\e9fb";
+}
+.qico-rake:before {
+  content: "\e9fc";
+}
+.qico-bulldozer:before {
+  content: "\e9fd";
+}
+.qico-driller:before {
+  content: "\e9fe";
+}
+.qico-cutter1:before {
+  content: "\e9ff";
+}
+.qico-crane-3:before {
+  content: "\ea00";
+}
+.qico-crane-2:before {
+  content: "\ea01";
+}
+.qico-crane-1:before {
+  content: "\ea02";
+}
+.qico-crane1:before {
+  content: "\ea03";
+}
+.qico-dumper:before {
+  content: "\ea04";
+}
+.qico-concrete-mixer:before {
+  content: "\ea05";
+}
+.qico-toolbox1:before {
+  content: "\ea06";
+}
+.qico-maze:before {
+  content: "\ea07";
+}
+.qico-cone:before {
+  content: "\ea08";
+}
+.qico-chisel:before {
+  content: "\ea09";
+}
+.qico-caliper:before {
+  content: "\ea0a";
+}
+.qico-compass:before {
+  content: "\ea0b";
+}
+.qico-barrier-2:before {
+  content: "\ea0c";
+}
+.qico-barrier-1:before {
+  content: "\ea0d";
+}
+.qico-barrier1:before {
+  content: "\ea0e";
+}
+.qico-warning:before {
+  content: "\ea0f";
+}
+.qico-circular-saw1:before {
+  content: "\ea10";
+}
+.qico-floor-1:before {
+  content: "\ea11";
+}
+.qico-barrier2:before {
+  content: "\ea12";
+}
+.qico-blueprint1:before {
+  content: "\ea13";
+}
+.qico-brickwall:before {
+  content: "\ea14";
+}
+.qico-budget:before {
+  content: "\ea15";
+}
+.qico-caution:before {
+  content: "\ea16";
+}
+.qico-compass1:before {
+  content: "\ea17";
+}
+.qico-concrete-mixer-1:before {
+  content: "\ea18";
+}
+.qico-concrete-mixer1:before {
+  content: "\ea19";
+}
+.qico-cone1:before {
+  content: "\ea1a";
+}
+.qico-crane-11:before {
+  content: "\ea1b";
+}
+.qico-crane-21:before {
+  content: "\ea1c";
+}
+.qico-crane2:before {
+  content: "\ea1d";
+}
+.qico-drill1:before {
+  content: "\ea1e";
+}
+.qico-dumper1:before {
+  content: "\ea1f";
+}
+.qico-engineer:before {
+  content: "\ea20";
+}
+.qico-floor:before {
+  content: "\ea21";
+}
+.qico-gloves:before {
+  content: "\ea22";
+}
+.qico-hammer2:before {
+  content: "\ea23";
+}
+.qico-helmet3:before {
+  content: "\ea24";
+}
+.qico-high-noise:before {
+  content: "\ea25";
+}
+.qico-jackhammer2:before {
+  content: "\ea26";
+}
+.qico-light-bulb:before {
+  content: "\ea27";
+}
+.qico-loader:before {
+  content: "\ea28";
+}
+.qico-log:before {
+  content: "\ea29";
+}
+.qico-measuring-tape1:before {
+  content: "\ea2a";
+}
+.qico-no-entry:before {
+  content: "\ea2b";
+}
+.qico-nut1:before {
+  content: "\ea2c";
+}
+.qico-paint-brush1:before {
+  content: "\ea2d";
+}
+.qico-paint-roller2:before {
+  content: "\ea2e";
+}
+.qico-plug-1:before {
+  content: "\ea2f";
+}
+.qico-plug:before {
+  content: "\ea30";
+}
+.qico-plumbing:before {
+  content: "\ea31";
+}
+.qico-roof:before {
+  content: "\ea32";
+}
+.qico-ruler:before {
+  content: "\ea33";
+}
+.qico-saw-11:before {
+  content: "\ea34";
+}
+.qico-saw2:before {
+  content: "\ea35";
+}
+.qico-schedule:before {
+  content: "\ea36";
+}
+.qico-screwdriver2:before {
+  content: "\ea37";
+}
+.qico-shovel2:before {
+  content: "\ea38";
+}
+.qico-spray:before {
+  content: "\ea39";
+}
+.qico-tap:before {
+  content: "\ea3a";
+}
+.qico-toolbox2:before {
+  content: "\ea3b";
+}
+.qico-vest1:before {
+  content: "\ea3c";
+}
+.qico-vise:before {
+  content: "\ea3d";
+}
+.qico-voltmeter:before {
+  content: "\ea3e";
+}
+.qico-warning1:before {
+  content: "\ea3f";
+}
+.qico-wheelbarrow2:before {
+  content: "\ea40";
+}
+.qico-window:before {
+  content: "\ea41";
+}
+.qico-worker:before {
+  content: "\ea42";
+}

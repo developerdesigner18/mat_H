@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer_1" x="0px" y="0px" viewBox="0 0 22 22" style="enable-background:new 0 0 22 22;" xml:space="preserve">
+<style type="text/css">
+	.st0aaa{clip-path:url(#SVGID_2aaa_);fill:#C5BCF7;}
+	.st1aaa{clip-path:url(#SVGID_2aaa_);fill:#6E59ED;}
+	.st2aaa{clip-path:url(#SVGID_2aaa_);fill:#A89BF4;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1aaa_" width="22" height="22"></rect>
+	</defs>
+	<clipPath id="SVGID_2aaa_">
+		<use xlink:href="#SVGID_1aaa_" style="overflow:visible;"></use>
+	</clipPath>
+	<path class="st0aaa" d="M5,22H1c-0.55,0-1-0.45-1-1v-8c0-0.55,0.45-1,1-1h4c0.55,0,1,0.45,1,1v0v8C6,21.55,5.55,22,5,22z"></path>
+	<path class="st1aaa" d="M13,22H9c-0.55,0-1-0.45-1-1V1c0-0.55,0.45-1,1-1h4c0.55,0,1,0.45,1,1v20C14,21.55,13.55,22,13,22L13,22z"></path>
+	<path class="st2aaa" d="M21,22h-4c-0.55,0-1-0.45-1-1V9c0-0.55,0.45-1,1-1h0h4c0.55,0,1,0.45,1,1v12C22,21.55,21.55,22,21,22L21,22z"></path>
+</g>
+</svg>

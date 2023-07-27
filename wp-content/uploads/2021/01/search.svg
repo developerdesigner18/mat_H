@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer_1" x="0px" y="0px" viewBox="0 0 32.11 32.11" style="enable-background:new 0 0 32.11 32.11;" xml:space="preserve">
+<style type="text/css">
+	.st0eee{clip-path:url(#SVGID_2eee_);fill:#3377FF;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1eee_" y="0" width="32.11" height="32.11"></rect>
+	</defs>
+	<clipPath id="SVGID_2eee_">
+		<use xlink:href="#SVGID_1eee_" style="overflow:visible;"></use>
+	</clipPath>
+	<path class="st0eee" d="M19.11,0c-7.18,0-13,5.82-13,13c0,3.09,1.08,5.93,2.88,8.16l-8.59,8.59c-0.54,0.54-0.54,1.42,0,1.96   c0.54,0.54,1.42,0.54,1.96,0l8.59-8.59c2.23,1.8,5.07,2.88,8.16,2.88c7.18,0,13-5.82,13-13S26.29,0,19.11,0 M19.11,24   c-6.07,0-11-4.93-11-11s4.93-11,11-11s11,4.93,11,11S25.18,24,19.11,24"></path>
+</g>
+</svg>

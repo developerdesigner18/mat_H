@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer_1" x="0px" y="0px" viewBox="0 0 20 20" style="enable-background:new 0 0 20 20;" xml:space="preserve">
+<style type="text/css">
+	.st0f{clip-path:url(#SVGID_2f_);}
+	.st1f{clip-path:url(#SVGID_4f_);fill:#DABEFF;}
+	.st2f{opacity:0.8;clip-path:url(#SVGID_4f_);}
+	.st3f{clip-path:url(#SVGID_6f_);fill:#E8D8FF;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1f_" width="20" height="20"></rect>
+	</defs>
+	<clipPath id="SVGID_2f_">
+		<use xlink:href="#SVGID_1f_" style="overflow:visible;"></use>
+	</clipPath>
+	<g class="st0f">
+		<defs>
+			<rect id="SVGID_3f_" width="20" height="20"></rect>
+		</defs>
+		<clipPath id="SVGID_4f_">
+			<use xlink:href="#SVGID_3f_" style="overflow:visible;"></use>
+		</clipPath>
+		<path class="st1f" d="M5,16c-0.55,0-1-0.45-1-1v-4c0-0.55,0.45-1,1-1s1,0.45,1,1v4C6,15.55,5.55,16,5,16z M10,16    c-0.55,0-1-0.45-1-1V5c0-0.55,0.45-1,1-1s1,0.45,1,1v10C11,15.55,10.55,16,10,16z M15,16c-0.55,0-1-0.45-1-1V9c0-0.55,0.45-1,1-1    c0.55,0,1,0.45,1,1v6C16,15.55,15.55,16,15,16L15,16z"></path>
+		<g class="st2">
+			<g>
+				<defs>
+					<rect id="SVGID_5f_" width="20" height="20"></rect>
+				</defs>
+				<clipPath id="SVGID_6f_">
+					<use xlink:href="#SVGID_5f_" style="overflow:visible;"></use>
+				</clipPath>
+				<path class="st3f" d="M17,0H3C1.34,0,0,1.34,0,3v14c0,1.66,1.34,3,3,3h14c1.66,0,3-1.34,3-3V3C20,1.34,18.66,0,17,0 M6,15      c0,0.55-0.45,1-1,1s-1-0.45-1-1v-4c0-0.55,0.45-1,1-1s1,0.45,1,1V15z M11,15c0,0.55-0.45,1-1,1s-1-0.45-1-1V5c0-0.55,0.45-1,1-1      s1,0.45,1,1V15z M16,15c0,0.55-0.45,1-1,1c-0.55,0-1-0.45-1-1V9c0-0.55,0.45-1,1-1c0.55,0,1,0.45,1,1V15z"></path>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
